@@ -20,7 +20,7 @@ import {
   setSelectedConversation,
 } from "../redux/conversationSlice.js";
 import { createConversation } from "../features/createConversation.js";
-import logOut from "../features/logout.js";
+import logOut from "../features/logOut.js";
 import { setUserData } from "../redux/userSlice.js";
 import BillingDrawer from "./BillingDrawer.jsx";
 
